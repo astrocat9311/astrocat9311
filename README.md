@@ -2,7 +2,7 @@
 <hr/>
 
 ## I want to be a pantomath
-👋 I'm interested in cooking, motorbikes, digital devices, philosophy, politics, linguistics and many other things...<br/>
+👋 I'm interested in cooking, motorbikes, digital devices, philosophy, politics, linguistics, etc...<br/>
 👀 I’m doing my best effort to get use to coding :-)<br/>
 🌱 I’m currently learning ```Python```, ```Django```, ```MySQL``` and so on.<br/>
 💞️ I'm fluent in :kr: :us:. Also, I can communicate in :cn: as well (not fluent though)
